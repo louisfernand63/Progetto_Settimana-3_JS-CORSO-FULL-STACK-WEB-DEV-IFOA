@@ -14,22 +14,21 @@ REGOLE
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
-/*
+
 let sum;
 sum = 10 + 20;
-console.log(sum);
-*/
+//console.log(sum);
 
 
 /* ESERCIZIO B
   Crea una variabile chiamata "random" e assegnaci un numero casuale tra 0 e 20 (deve essere generato dinamicamente a ogni esecuzione).
 */
 /* SCRIVI QUI LA TUA RISPOSTA */
-/*
+
 let random;
 random = Math.floor(Math.random() * 20);
-console.log(random);
-*/
+//console.log(random);
+
 
 
 /* ESERCIZIO C
@@ -53,14 +52,14 @@ console.log(me.age);*/
   Crea del codice per rimuovere programmaticamente la proprietà "age" dall'oggetto precedentemente creato.
 */
 /* SCRIVI QUI LA TUA RISPOSTA */
-/*
+
 function removeAge() {
   delete me.age;
 }
-removeAge();
-console.log(me.age);
-console.log(me);
-*/
+//removeAge();
+//console.log(me.age);
+//console.log(me);
+
 
 /* ESERCIZIO E
   Crea del codice per aggiungere programmaticamente all'oggetto precedentemente creato un array chiamato "skills", contenente i linguaggi di programmazione che conosci.
@@ -73,7 +72,6 @@ function addSkills() {
 addSkills();
 /*console.log(me.skills);
 console.log(me);*/
-
 
 
 /* ESERCIZIO F
@@ -130,7 +128,7 @@ function dice() {
 
   return numeroCasuale;
 }
-dice();
+//dice();
 
 
 /* ESERCIZIO 2
